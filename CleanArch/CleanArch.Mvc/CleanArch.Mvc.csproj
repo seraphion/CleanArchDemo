@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <UserSecretsId>aspnet-CleanArch.Mvc-705D7BFF-FA91-4650-BC66-265CACE24CE1</UserSecretsId>
+    <UserSecretsId>aspnet-CleanArch.Mvc-44456ADD-364C-4BCF-9264-0E49E4F18764</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
