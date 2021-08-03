@@ -27,7 +27,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure.Bus", "Infra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{7D22F441-1734-472A-9F40-67ED69354366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Infrastructure.Bus", "CleanArch.Infrastructure.Bus\CleanArch.Infrastructure.Bus.csproj", "{136EAE90-965B-4152-BC06-0E2AD8FC297B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Infrastructure.Bus", "CleanArch.Infrastructure.Bus\CleanArch.Infrastructure.Bus.csproj", "{136EAE90-965B-4152-BC06-0E2AD8FC297B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Domain.Core", "CleanArch.Domain.Core\CleanArch.Domain.Core.csproj", "{5A6A2EB6-0599-4873-BEAB-2DA275B6E5F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{136EAE90-965B-4152-BC06-0E2AD8FC297B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{136EAE90-965B-4152-BC06-0E2AD8FC297B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{136EAE90-965B-4152-BC06-0E2AD8FC297B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6A2EB6-0599-4873-BEAB-2DA275B6E5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6A2EB6-0599-4873-BEAB-2DA275B6E5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6A2EB6-0599-4873-BEAB-2DA275B6E5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6A2EB6-0599-4873-BEAB-2DA275B6E5F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +76,7 @@ Global
 		{BD58B4F8-A52C-4C08-90E9-4291FD48F8C1} = {A95DAE29-6A53-4D05-92C4-9456B8FEC277}
 		{8AD97887-8AF1-4D4F-A63A-B0D722CAA1F6} = {42258C41-7DB4-4F20-82F2-2A446994F51B}
 		{136EAE90-965B-4152-BC06-0E2AD8FC297B} = {B73BCB5C-0566-4EC8-9DF2-C9914FB649AD}
+		{5A6A2EB6-0599-4873-BEAB-2DA275B6E5F4} = {0B51421B-BFDE-4AE3-B713-EBC42FF67905}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {93EF771E-0371-48A8-847A-2B2CA6E11135}
