@@ -5,4 +5,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArch.Domain.Core\CleanArch.Domain.Core.csproj" />
+  </ItemGroup>
+
 </Project>
